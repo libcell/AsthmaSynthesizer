@@ -1,2 +1,2 @@
 # AsthmaSynthesizer
- Uncovering the pathogenesis of asthma by microarray data integration
+ Consistent Biomarkers and related pathogenesis underlying asthma revealed by Systems Biology Approach
