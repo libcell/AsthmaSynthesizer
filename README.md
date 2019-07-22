@@ -1,2 +1,2 @@
 # AsthmaSynthesizer
- Consistent Biomarkers and related pathogenesis underlying asthma revealed by Systems Biology Approach
+ Consistent Biomarkers and Related Pathogenesis Underlying Asthma Revealed by Systems Biology Approach
