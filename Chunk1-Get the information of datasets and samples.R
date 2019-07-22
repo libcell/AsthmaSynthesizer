@@ -19,7 +19,11 @@
 # My windows.
 setwd("F:/Asthma/AsthmaData/test")
 
-source("http://bioconductor.org/biocLite.R")
+# The R Script for installing the bioconductor packages, in R < 3.6.0
+# source("http://bioconductor.org/biocLite.R")
+
+# The R Script for installing the bioconductor packages, in R >= 3.6.0
+# BiocManager::install("GEOquery")
 
 gse.asthma <- c("GSE470", "GSE4302", "GSE18965", "GSE41861", "GSE44037", 
                 "GSE64913", "GSE67472", "GSE89809", "GSE104468", "GSE63142")
